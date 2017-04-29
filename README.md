@@ -8,15 +8,19 @@ dimensionality manifold that can be clustered using k-means.
 
 ## Results
 
+K = 2
+
 ![alt text](https://github.com/mrquant/Spectral-Clustering/blob/master/example-k2.png "k = 2")
+
+
+K = 4
+
+![alt text](https://github.com/mrquant/Spectral-Clustering/blob/master/example-k4.png "k = 4")
 
 ## References
 
-[@INPROCEEDINGS{Ng01onspectral,
-    author = {Andrew Y. Ng and Michael I. Jordan and Yair Weiss},
-    title = {On Spectral Clustering: Analysis and an algorithm},
-    booktitle = {ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS },
-    year = {2001},
-    pages = {849--856},
-    publisher = {MIT Press}
+[   Spectral Clustering: Analysis and an algorithm,
+    author: Andrew Y. Ng and Michael I. Jordan and Yair Weiss,
+    ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS,
+    2001
 }](http://ai.stanford.edu/~ang/papers/nips01-spectral.pdf)
