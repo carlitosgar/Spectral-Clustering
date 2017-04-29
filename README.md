@@ -1,7 +1,6 @@
 # Spectral-Clustering
 Graph clustering in Julia using the spectral properties of the affinity matrix of a graph.
 
-## Spectral clustering
 Reformulation of intra-cluster and inter-cluster similarity as a cost function defined by the Laplacian matrix decomposition of a graph.
 The maximization of the cost function is given by the first k eigenvalues. The corresponding eigenvectors become a normal basis and lower
 dimensionality manifold that can be clustered using k-means.
